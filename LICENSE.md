@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with rare AppCleaner for macOS Service | menu-bar-customization + clipboard-manager, the #1 service. Includes menu-bar-customization and
 
 
 
